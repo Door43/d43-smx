@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[smx:home|Door43 (smx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-smx|d43-smx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-smx/archive/master.zip|d43-smx.zip]]
+
+**Recent Changes**
+{{changes>ns = smx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/smx|Ethnologue data]]
+
